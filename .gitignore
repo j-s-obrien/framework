@@ -4,3 +4,15 @@ composer.lock
 .php_cs.cache
 .DS_Store
 Thumbs.db
+#####################
+# Zend Studio files #
+#####################
+.buildpath
+.project
+.settings*
+deployment*
+.svn*
+#####################
+# Proteus Files     #
+#####################
+/.htaccess
